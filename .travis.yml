@@ -14,4 +14,4 @@ before_script:
 script:
   - bundle exec rake
 notifications:
-  email: crvidya@shippable.com
+  email: crvidya@ymail.com
