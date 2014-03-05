@@ -13,3 +13,5 @@ before_script:
   - sudo ./spec/support/setup-test.sh
 script:
   - bundle exec rake
+notifications:
+  email: crvidya@shippable.com
